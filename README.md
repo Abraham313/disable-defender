@@ -11,3 +11,5 @@ Workflow
 
 Helpful in Red Team Penetration Testing
 Can be bind with any payload / spyware
+
+NOTE: Should be 'run as administrator'

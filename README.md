@@ -1,5 +1,5 @@
 # disable-defender
-Powershell based batch script to disable windows defender at one click
+Automated powershell based batch script to disable windows defender at one click
 
 Workflow
 1. Download Defender-Control zip from sordum.org
